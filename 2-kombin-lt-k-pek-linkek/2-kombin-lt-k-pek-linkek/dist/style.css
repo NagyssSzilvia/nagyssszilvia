@@ -1,0 +1,20 @@
+h1{
+ font-family: 'Sen', sans-serif; 
+ font-size: 45px;
+}
+#card-holder{
+  display: flex;
+ 
+}
+.card a{
+  display: block;
+ }
+
+.card{
+  
+  width: 200px;
+  text-align: center;
+}
+img{  
+  width: 150px;
+}

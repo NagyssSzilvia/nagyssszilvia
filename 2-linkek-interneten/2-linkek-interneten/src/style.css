@@ -1,0 +1,17 @@
+a{
+  display: block;
+  margin: 20px;
+ font-family: 'Sen', sans-serif;
+  color: blue;
+  font-size: 30px;
+  }
+a:hover{
+  color: white;
+  background: green;
+}
+a:display{
+  color: lime;
+}
+a:visited{
+  color: purple;
+}

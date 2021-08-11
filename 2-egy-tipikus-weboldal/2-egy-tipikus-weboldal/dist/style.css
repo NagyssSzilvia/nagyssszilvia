@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav {
+  display: flex;
+  background: purple;
+  height: 50px;
+  padding: 10px;
+  align-items: center;
+ }
+.menu a {
+  display: block;
+  width: 90px;
+  height: 30px;
+  margin: 0px 10px;
+  background: cyan;
+ }
+.menu_middle a {
+  display: block;
+  width: 150px;
+  height: 30px;
+  margin: 0px 20px;
+  background: cyan;
+ }
+
+main{
+ display: flex;
+ height: 500px;
+}
+.yellow {
+  flex-grow: 4;
+  background: yellow;
+}
+.green {
+  flex-grow: 1;
+  background: green;
+}

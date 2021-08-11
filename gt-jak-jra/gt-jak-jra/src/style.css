@@ -1,0 +1,22 @@
+main {
+  width: 400px;
+  border: 7px;
+  border-style: solid;
+  border-color: #4285f4;
+  font-weight: bold;
+  font-size:40px;
+  color: white;
+}
+.piros {
+  background: #E67676
+}
+.turkiz {
+  background: #A9E6E6
+}
+.centered {
+  text-align: center;
+}
+p {
+  padding: 40px;
+  margin: 0px;
+ }

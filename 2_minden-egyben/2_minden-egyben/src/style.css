@@ -1,0 +1,43 @@
+.container{
+  max-width:1200 px;
+  margin-left: auto;
+  margin-right: auto;
+}
+header{
+  width: 900px;
+  height: 100px;
+   margin-left: auto;
+  margin-right: auto;
+  background: aqua;
+}
+.tartalom{
+  margin:0;
+  display: flex;
+  width: 900px;
+   margin-left: auto;
+  margin-right: auto;
+  justify-content: space-between;
+  }
+.tartalom .hasab_orange{
+   width: 200px;
+  height: 500px;
+ background: orange;
+}
+.tartalom main{
+     width: 350px;
+  height: 500px;
+ background: red;
+}
+.tartalom .hasab_purple{
+   width: 200px;
+  height: 500px;
+ background: purple;
+  margin-right: 0;
+   }
+footer{
+  width: 900px;
+  height: 100px;
+   margin-left: auto;
+  margin-right: auto;
+  background: blue;
+}

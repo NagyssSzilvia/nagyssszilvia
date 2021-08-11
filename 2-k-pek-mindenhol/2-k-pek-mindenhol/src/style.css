@@ -1,0 +1,25 @@
+#card-holder {
+  display: flex;
+    max-width :1200px;
+    margin-left: auto;
+    margin-right: auto;
+       justify-content: space-center;
+  align-items: flex-end;
+    align-content: space-between;
+       fl}
+ img{
+  width: 400px;
+  border: solid green 4px;
+   margin:50px;
+  
+}
+.card{
+  width: 400px;
+  padding: 20px;
+  
+  
+ }
+img:hover{
+ width: 420px;
+  margin-top:0; 
+  }
